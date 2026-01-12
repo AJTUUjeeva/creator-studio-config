@@ -17,17 +17,17 @@
     "title": "Follow AJTUU",
     "items": [
       {
-        "image": "INSTA_IMAGE_URL",
+        "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/unnamed%20(26).jpg",
         "text": "Instagram",
         "link": "https://instagram.com/AJTUU"
       },
       {
-        "image": "TELEGRAM_IMAGE_URL",
+        "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Gemini_Generated_Image_p935i0p935i0p935.png",
         "text": "Telegram",
         "link": "https://t.me/AJTUU"
       },
       {
-        "image": "YOUTUBE_IMAGE_URL",
+        "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/unnamed%20(27).jpg",
         "text": "YouTube",
         "link": "https://youtube.com/@AJTUU"
       }
