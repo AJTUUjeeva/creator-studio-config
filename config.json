@@ -7,7 +7,7 @@
 
   "splash": {
     "show": true,
-    "image": "https://github.com/AJTUUjeeva/creator-studio-config/blob/be3eaf0bca300b7ac79a83652b4eaf0eee57aa4f/splash.jpg",
+    "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/splash.jpg",
     "title": "🔥 Creator Studio PRO",
     "text": "Download smarter. Edit faster.",
     "continueLink": "https://t.me/AJTUU"
