@@ -1,0 +1,43 @@
+{
+  "app": {
+    "latestVersion": "3.0.0",
+    "updateLink": "https://yourlink.com/CreatorStudio_Setup.exe",
+    "forceUpdate": false
+  },
+
+  "splash": {
+    "show": true,
+    "image": "SPLASH_IMAGE_URL",
+    "title": "🔥 Creator Studio PRO",
+    "text": "Download smarter. Edit faster.",
+    "continueLink": "https://t.me/AJTUU"
+  },
+
+  "sidebar": {
+    "title": "Follow AJTUU",
+    "items": [
+      {
+        "image": "INSTA_IMAGE_URL",
+        "text": "Instagram",
+        "link": "https://instagram.com/AJTUU"
+      },
+      {
+        "image": "TELEGRAM_IMAGE_URL",
+        "text": "Telegram",
+        "link": "https://t.me/AJTUU"
+      },
+      {
+        "image": "YOUTUBE_IMAGE_URL",
+        "text": "YouTube",
+        "link": "https://youtube.com/@AJTUU"
+      }
+    ]
+  },
+
+  "newsFeed": [
+    "🔥 New Shorts preset added",
+    "⚡ Faster 4K downloads",
+    "🎬 Premiere Pro export improved",
+    "📢 Join our Telegram for tips"
+  ]
+}
