@@ -2,7 +2,7 @@
   "app": {
     "latestVersion": "3.0.0",
     "updateLink": "https://yourlink.com/CreatorStudio_Setup.exe",
-    "forceUpdate": false
+    "forceUpdate": true
   },
 
   "splash": {
