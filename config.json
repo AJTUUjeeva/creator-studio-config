@@ -1,61 +1,6 @@
 {
-  "app": {
-    "latestVersion": "3.0.0",
-    "updateLink": "https://yourlink.com/CreatorStudio_Setup.exe",
-    "forceUpdate": true
-  },
-
-  "splash": {
-    "show": true,
-    "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/unnamed%20(26).jpg",
-    "title": "🔥 Creator Studio PRO",
-    "text": "Download smarter. Edit faster.",
-    "continueLink": "https://t.me/AJTUU"
-  },
-
-  "slider": [
-    {
-      "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/main/slide1.jpg",
-      "link": "https://t.me/AJTUU"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/main/slide2.jpg",
-      "link": "https://instagram.com/AJTUU"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/main/slide3.jpg",
-      "link": "https://youtube.com/@AJTUU"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/main/slide4.jpg",
-      "link": "https://t.me/AJTUU"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/main/slide5.jpg",
-      "link": "https://instagram.com/AJTUU"
-    }
-  ],
-
-  "headlines": [
-    {
-      "text": "🔥 New Preset Released",
-      "link": "https://t.me/AJTUU"
-    },
-    {
-      "text": "🎬 Best Reels Export Settings",
-      "link": "https://youtube.com/@AJTUU"
-    },
-    {
-      "text": "📢 Join Our Creator Hub",
-      "link": "https://instagram.com/AJTUU"
-    }
-  ],
-
-  "social": {
-    "instagram": "https://instagram.com/AJTUU",
-    "telegram": "https://t.me/AJTUU",
-    "whatsapp": "https://wa.me/your_number",
-    "youtube": "https://youtube.com/@AJTUU"
-  }
+  "app_title": "🔥 Creator Studio",
+  "app_tags": "Download • Cut • Create Faster",
+  "splash_image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/unnamed%20(26).jpg",
+  "continue_link": "https://t.me/AJTUU"
 }
-
