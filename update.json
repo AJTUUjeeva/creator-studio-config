@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0.2",
+  "update_required": true,
+  "update_title": "Update Required",
+  "update_message": "New version available. Please update Creator Studio to continue.",
+  "update_link": "https://github.com/YOURNAME/CreatorStudio/releases/latest"
+}
