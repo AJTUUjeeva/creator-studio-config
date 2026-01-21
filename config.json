@@ -7,6 +7,6 @@
     "continueLink": "https://instagram.com/AJTUU"
   },
   "app": {
-    "allowRun": false
+    "allowRun": true
   }
 }
