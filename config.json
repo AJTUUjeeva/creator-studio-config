@@ -1,9 +1,9 @@
 {
   "splash": {
     "enabled": true,
-    "image": "https://yourdomain.com/splash.jpg",
-    "title": "Creator Studio",
-    "tagline": "Next-Gen Downloader",
+    "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/main/splash.jpg",
+    "title": "Creator Studio PRO",
+    "tag": "Cyber Downloader Engine",
     "continueLink": "https://instagram.com/AJTUU"
   },
   "app": {
