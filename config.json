@@ -1,12 +1,12 @@
 {
-  "title": "Creator Studio",
-  "tag": "Next-Gen Downloader",
-  "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/unnamed%20(26).jpg",
-  "continue_url": "https://t.me/AJTUU"
-}
-{
+  "splash": {
+    "enabled": true,
+    "image": "https://yourdomain.com/splash.jpg",
+    "title": "Creator Studio",
+    "tagline": "Next-Gen Downloader",
+    "continueLink": "https://instagram.com/AJTUU"
+  },
   "app": {
-    "allowRun": true,
-    "message": "All good"
+    "allowRun": true
   }
 }
