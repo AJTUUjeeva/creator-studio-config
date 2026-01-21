@@ -4,3 +4,9 @@
   "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/unnamed%20(26).jpg",
   "continue_url": "https://t.me/AJTUU"
 }
+{
+  "app": {
+    "allowRun": true,
+    "message": "All good"
+  }
+}
