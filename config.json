@@ -1,12 +1,48 @@
 {
   "splash": {
     "enabled": true,
+
     "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png",
+
     "title": "Creator Studio",
+
     "tag": "Follow @AJTUU",
+
     "continueLink": "https://instagram.com/AJTUU"
   },
+
   "app": {
     "allowRun": true
+  },
+
+  "contact": {
+    "enabled": true,
+    "text": "Contact @AJTUU at Instagram",
+    "link": "https://instagram.com/AJTUU"
+  },
+
+  "slider": {
+    "enabled": true,
+    "intervalSeconds": 10,
+
+    "items": [
+      {
+        "title": "Creator Studio Pro",
+        "description": "Cyber Downloader Engine",
+        "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png",
+        "link": "https://instagram.com/AJTUU"
+      },
+      {
+        "title": "Fast • Secure • Powerful",
+        "description": "Built on yt-dlp + ffmpeg",
+        "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/main/slide2.png",
+        "link": ""
+      }
+    ]
+  },
+
+  "startQueueOverride": {
+    "enabled": false,
+    "link": "https://instagram.com/AJTUU"
   }
 }
