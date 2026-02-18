@@ -1,8 +1,8 @@
 {
   "app": {
-    "allowRun": false,
+    "allowRun": true,
     "currentVersion": "1.5.0",
-    "minRequiredVersion": "1.0.0",
+    "minRequiredVersion": "1.5.0",
     "forceUpdate": false,
     "blockMessage": "App temporarily disabled. Contact @AJTUU",
     "updateLink": "https://instagram.com/AJTUU"
