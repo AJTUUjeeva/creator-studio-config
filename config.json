@@ -1,6 +1,6 @@
 {
   "app": {
-    "allowRun": true,
+    "allowRun": false,
     "currentVersion": "1.0.0",
     "minRequiredVersion": "1.0.0",
     "forceUpdate": false,
