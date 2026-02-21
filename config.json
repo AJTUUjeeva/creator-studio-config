@@ -10,7 +10,7 @@
 
   "splash": {
     "enabled": true,
-    "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png",
+    "media": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png",
     "title": "Creator Studio",
     "tag": "Follow @AJTUU",
     "continueLink": "https://instagram.com/AJTUU"
@@ -29,25 +29,25 @@
       {
         "title": "Creator Studio Pro",
         "description": "Cyber Downloader Engine",
-        "image": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/Neon_City_Pop_Performance_Video.mp4",
+        "media": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/Neon_City_Pop_Performance_Video.mp4",
         "link": "https://instagram.com/AJTUU"
       },
       {
         "title": "GTA 6 LIVE NOW",
         "description": "SUBSCRIBE to vijay yt gaming",
-        "image": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/thumbnail.jpg",
+        "media": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/thumbnail.jpg",
         "link": "https://youtu.be/IQiZgElywYs?si=AAOwTyVQoMs5thPj"
       },
       {
         "title": "Unlimited Updates",
         "description": "Change slider anytime from GitHub config",
-        "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Gemini_Generated_Image_tzq24utzq24utzq2.png",
+        "media": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Gemini_Generated_Image_tzq24utzq24utzq2.png",
         "link": "https://instagram.com/AJTUU"
       },
       {
         "title": "Creator Tools Hub",
         "description": "Downloader • Converter • More",
-        "image": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png",
+        "media": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png",
         "link": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png"
       }
     ]
