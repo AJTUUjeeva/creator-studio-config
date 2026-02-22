@@ -54,7 +54,7 @@
   },
 
   "startQueueOverride": {
-    "enabled": true,
+    "enabled": false,
     "link": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/thumbnail.jpg"
   }
 }
