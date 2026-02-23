@@ -1,7 +1,7 @@
 {
   "app_name": "Creator Studio",
   "latest_version": "2.1.0",
-  "minimum_required_version": "2.0.5",
+  "minimum_required_version": "2.0.0",
   "download_url": "https://instagram.com/AJTUU",
   "update_message": "A new version is available. Please update for better performance and security.",
   "force_update_message": "Your version is outdated. You must update to continue using this app.",
