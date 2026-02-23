@@ -1,13 +1,12 @@
 {
   "app": {
-    "allowRun": false,
-    "currentVersion": "1.5.0",
-    "minRequiredVersion": "1.5.0",
-    "forceUpdate": false,
-    "blockMessage": "App temporarily disabled. Contact @AJTUU",
+    "allowRun": true,
+    "currentVersion": "2.0.0",
+    "minRequiredVersion": "2.0.0",
+    "forceUpdate": true,
+    "blockMessage": "App temporarily disabled or outdated. Please update!",
     "updateLink": "https://instagram.com/AJTUU"
   },
-
   "splash": {
     "enabled": true,
     "media": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png",
@@ -15,13 +14,11 @@
     "tag": "Follow @AJTUU",
     "continueLink": "https://instagram.com/AJTUU"
   },
-
   "contact": {
     "enabled": true,
     "text": "Contact ADMIN @AJTUU",
     "link": "https://instagram.com/AJTUU"
   },
-
   "slider": {
     "enabled": true,
     "intervalSeconds": 8,
@@ -29,7 +26,7 @@
       {
         "title": "Creator Studio Pro",
         "description": "Cyber Downloader Engine",
-        "media": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/unnamed%20(56).jpg",
+        "media": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/Neon_City_Pop_Performance_Video.mp4",
         "link": "https://instagram.com/AJTUU"
       },
       {
@@ -47,14 +44,13 @@
       {
         "title": "Creator Tools Hub",
         "description": "Downloader • Converter • More",
-        "media": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/black_myth_wukong_the_destined_one(1).jpg",
+        "media": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png",
         "link": "https://raw.githubusercontent.com/AJTUUjeeva/creator-studio-config/refs/heads/main/Untitled-1.png"
       }
     ]
   },
-
   "startQueueOverride": {
     "enabled": false,
-    "link": "https://hqynnqqkgtuvrxnsemef.supabase.co/storage/v1/object/public/creator%20studio%20config/thumbnail.jpg"
+    "link": ""
   }
 }
